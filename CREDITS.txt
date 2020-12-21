@@ -1,0 +1,21 @@
+
+Picture Credits
+
+Flaticon 
+- gift : https://www.flaticon.com/free-icon/gift_3831771?term=christmas&page=2&position=33&related_item_id=3831771
+- hat : https://www.flaticon.com/free-icon/hat_744546?term=christmas&page=1&position=2&related_item_id=744546
+- snowflake : https://www.flaticon.com/free-icon/snowflake_3915582?term=christmas&page=1&position=9&related_item_id=3915582
+- star : https://www.flaticon.com/free-icon/star_616490?term=star&page=1&position=9&related_item_id=616490
+- presents : https://www.flaticon.com/free-icon/presents_2367788?term=christmas&page=1&position=10&related_item_id=2367788
+
+
+Pixabay 
+- gift1 : https://pixabay.com/fr/photos/cadeau-nouvel-an-f%C3%A9licitation-no%C3%ABl-4669449/
+- gift2 : https://pixabay.com/fr/photos/cadeaux-surprise-fabriqu%C3%A9-no%C3%ABl-4678018/
+- gift2 : https://pixabay.com/fr/photos/cadeaux-paquets-fabriqu%C3%A9-boucle-570821/
+- santa : https://pixabay.com/fr/photos/p%C3%A8re-no%C3%ABl-no%C3%ABl-d%C3%A9cembre-barbe-1149928/
+- kado : https://pixabay.com/fr/photos/no%C3%ABl-christmas-cadeaux-kado-hiver-3026687/
+- tree : https://pixabay.com/fr/photos/no%C3%ABl-sapin-mockup-star-3833492/
+
+Fonts
+christmas list : https://www.dafont.com/theme.php?cat=804
